@@ -1,0 +1,2 @@
+/Users/angel/AndroidStudioProjects/SP1_Tarea1/app/build/intermediates/classes/debug
+/Users/angel/AndroidStudioProjects/SP1_Tarea1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-88f0a8b3c89201cb7fd4e66f274eb50fdac91e58.jar
